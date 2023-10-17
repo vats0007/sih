@@ -90,6 +90,11 @@
     font-size: 19px;
     font-weight: 700;
     cursor: pointer;
+
+}
+
+.submit:hover{
+    color: #615ae1;
 }
 
 .gray{
